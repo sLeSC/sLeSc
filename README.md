@@ -1,6 +1,6 @@
 # Welcome to My Programming Showcase ☕️
 
-Hi there! I'm passionate about programming and coffee. This repository is a collection of my projects where I explore and experiment with various technologies, mainly focusing on Python, Java, Excel and MySQL. Whether it's building efficient algorithms, developing web applications, or diving into data analytics, I’m always excited to learn and create innovative solutions. 
+Hi there! This repository is a collection of my projects where I explore and experiment with various technologies, mainly focusing on Python, Java, Excel and MySQL. Whether it's building efficient algorithms, developing web applications, or diving into data analytics, I’m always excited to learn and create innovative solutions. 
 
                                                     Happy coding! 💻
 
